@@ -1,0 +1,41 @@
+nav {
+    font-size: 30px;
+
+}
+
+nav h1 {
+    font-family: Apple Chancery;
+}
+
+header h1 {
+    text-align: center;
+    font-family: Apple Chancery;
+}
+
+.car-listings {
+    font-weight: bold;
+    font-family: Apple Chancery;
+    font-size: 25px;
+}
+
+#enquiries .row {
+    justify-content: center;
+}
+
+#enquiries .container {
+    background-color:rgb(143, 222, 233);
+}
+
+h4 {
+    font-family: Apple Chancery;   
+    font-weight: bold;
+    font-size: 25px;
+}
+
+footer {
+    text-align: center;
+}
+
+h3 {
+    font-size: 20px;
+}
